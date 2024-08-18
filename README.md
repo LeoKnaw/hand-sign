@@ -4,6 +4,7 @@
 
 The Hand Sign recognition System aims to develop a robust machine learning model that can accurately predict hand signs that would be useful for hand sign translation and accessibility for people with hearing and speech disabilities. 
 Link to the dataset: https://www.kaggle.com/datasets/ash2703/handsignimages
+
 The Sign Language MNIST dataset is presented here and follows the jpeg image format with labels . The American Sign Language letter database of hand gestures represent a multi-class problem with 24 classes of letters (excluding J and Z which require motion).
 There are a total of 27,455 gray-scale images of size 28*28 pixels whose value range between 0-255. Each case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions).
 The goal of the project is to create a model that correctly identifies patterns in the dataset and correctly classify them
